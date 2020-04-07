@@ -1,0 +1,1 @@
+INSERT INTO `city`(`city_name`, `city_description`) VALUES('Minsk123', 'Minsk is beautiful');
